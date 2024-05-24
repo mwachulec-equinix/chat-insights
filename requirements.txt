@@ -1,0 +1,12 @@
+bertopic==0.16.1
+emoji==2.11.1
+joblib==1.2.0
+langdetect==1.0.9
+nltk==3.8.1
+numpy==1.24.3
+pandas==1.5.3
+scikit-learn==1.4.2
+google-cloud-aiplatform==1.48.0
+xlsxwriter==3.2.0
+jupyterlab==4.1.6
+pyarrow==9.0.0
