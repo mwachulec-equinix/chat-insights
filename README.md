@@ -1,5 +1,6 @@
 # Unveiling the Power of GenAI: Extracting Insights from Chats
 #### Repository for code related to workshop at Women in Tech Summit 2024
+By: Malgorzata Wachulec, Witold Chmielowiec, Marta Janas
 
 ## Source data
 We use Kaggle dataset called Customer Suport on Twitter for this workshop, you'll find it here: https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter.
